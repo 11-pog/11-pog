@@ -1,14 +1,14 @@
 # 11‑pog ⚡
 
-> 👨‍💻 ESTUDANTE DE DS (Desenvolvimento de Sistemas/Games) na ETEFMC, com foco em projetos full‑stack e automação.
+> 👨‍💻 ESTUDANTE DE DS (Desenvolvimento de Sistemas/Games) na ETEFMC.
 
 ---
 
 ## 🚀 SOBRE MIM
 
-- Estudando **Desenvolvimento de Sistemas/Games** na ETEFMC (módulo mais top do curso técnico de eletrônica).
-- Próximo passo: **INATEL** (foco em software embarcado e inovação).
-- Curioso por automação, jogos, Python, C#, C/ C++, microcontroladores (ESP32) e pipelines de CI/CD.
+- Estudando **Desenvolvimento de Sistemas/Games** na ETEFMC.
+- Próximo passo: **INATEL** (foco em software e inovação).
+- Curioso por automação, jogos, Python, C#, C/ C++, microcontroladores (ESP32).
 
 ---
 
